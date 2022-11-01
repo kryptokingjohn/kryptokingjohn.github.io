@@ -10,7 +10,7 @@
 /* Accordion Styling */
 
 body {
-    background: url(https://kryptokingjohn.github.io/images/mountains-dock-lake.jpg) no-repeat center center/ cover;
+    background: url("https://kryptokingjohn.github.io/images/mountains-dock-lake.jpg") no-repeat center center/ cover;
     height: 100vh; /* Set background image height to be the full height of the browser */
     justify-content: center;
     display: flex;
